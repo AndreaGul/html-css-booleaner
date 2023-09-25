@@ -17,4 +17,18 @@
     
 }
 
+.titolo {
+    font-weight: bold;
+}
 
+#booleaner{
+    color: aqua;
+}
+
+.autore{
+    color: gray;
+}
+
+.data {
+    font-size: 10px;
+}
