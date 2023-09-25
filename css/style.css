@@ -1,4 +1,4 @@
-
+/* intestazione della pagina */
 .banner {
     background-color: rgb(124, 192, 255);
     height: 100px;
@@ -18,6 +18,9 @@
     
 }
 
+/* /intestazione della pagina */
+
+/* titolo */
 .titolo {
     font-weight: bolder;
 }
@@ -33,17 +36,22 @@
 .data {
     font-size: 10px;
 }
+/* titolo */
 
+/* Fonti delle immagini */
 .Cit-photos {
     font-size: 10px;
 }
+/* /Fonti delle immagini */
 
+/* Corpo  della pagina */
 .evidenziato {
     background-color: yellow;
 }
 
+/* /Corpo  della pagina */
 
-
+/* tabella */
 .thead-color {
     background-color: blue;
 }
@@ -54,8 +62,10 @@ th { color: white;}
 
     background-color: aqua;
 }
+/* /tabella */
 
-.Consigliati{
+/* articoli correlati */
+.Correlati{
     color: grey;
 }
 
@@ -79,3 +89,5 @@ th { color: white;}
     padding-left: 10px;
     color: white;
 }
+
+/* /articoli correlati */
