@@ -27,20 +27,19 @@ header {
 /* /intestazione della pagina */
 
 /* titolo */
-.titolo {
-    font-weight: bolder;
-}
 
-#booleaner{
-    color: #52bceb;
-}
 
-.autore{
+.article-info{
     color: gray;
 }
 
+.nome-autore{
+    color: #52bceb;
+    font-size: 18px;
+}
+
 .data {
-    font-size: 10px;
+    font-size: 12px;
 }
 /* titolo */
 
