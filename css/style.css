@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+
 /* intestazione della pagina */
 header {
     background-color: rgb(124, 192, 255);
@@ -59,6 +64,12 @@ header {
 }
 
 /* /Corpo  della pagina */
+
+/* lista */
+.list-style{
+    list-style-position: inside;
+}
+/* /lista */
 
 /* tabella */
 .thead-color {
