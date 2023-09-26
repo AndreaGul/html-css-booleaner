@@ -5,15 +5,16 @@
 
 /* intestazione della pagina */
 header {
-    background-color: #4ea0ff;
+    background-color: rgb(124, 192, 255);
     height: 100px;
     width: 100%;
     background-image: url('../img/pattern.png');
-    background-position: top;
     background-size: 400px auto ;
     
 
 }
+
+
 
 .logo {
 
