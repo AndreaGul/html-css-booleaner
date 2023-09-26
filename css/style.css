@@ -43,11 +43,15 @@ header {
 }
 /* titolo */
 
-/* Fonti delle immagini */
+/* Fonti delle immagini e spazzi*/
+.images-space {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 .Cit-photos {
     font-size: 10px;
 }
-/* /Fonti delle immagini */
+/* /Fonti delle immagini e spazzi*/
 
 /* Corpo  della pagina */
 .evidenziato {
