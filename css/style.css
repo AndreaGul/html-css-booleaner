@@ -46,7 +46,7 @@ header {
 .data {
     font-size: 12px;
 }
-/* titolo */
+/* /titolo */
 
 /* Fonti delle immagini e spazzi*/
 .images-space {
@@ -65,10 +65,17 @@ header {
 
 /* /Corpo  della pagina */
 
+.space{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 /* lista */
 .list-style{
     list-style-position: inside;
 }
+
+
 /* /lista */
 
 /* tabella */
@@ -78,13 +85,17 @@ header {
 
 th { 
     color: white;
-    width: 25%;
+    
 }
 .colonna3 {
     width: 50%;
 }
 
-.tr-color{
+td{
+    padding: 10px;
+}
+
+.tr-odd{
 
     background-color: #b1e5f2;
 }
